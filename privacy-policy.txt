@@ -1,35 +1,46 @@
+Privacy Policy for Wagmi Token Analyzer
 
-# Privacy Policy for Wagmi Token Analyzer
+Effective Date: May 7, 2025
 
-Effective Date: May 2, 2025
+Thank you for using Wagmi Token Analyzer, a Chrome extension developed by the WAGMI Court community to promote transparency and security in Web3. Your privacy is important to us. This Privacy Policy outlines how we handle information when you use our extension.
 
-Wagmi Token Analyzer is a Chrome extension designed to assist users in analyzing cryptocurrency tokens on bullx.io. We are committed to maintaining your privacy and protecting any information you may provide.
+1. Information We Collect
+Wagmi Token Analyzer does not collect or store personally identifiable information.
+The extension operates entirely within your browser and processes data related to token activity in real time without transmitting personal data to any external servers.
 
-## Information Collection and Use
+We may collect non-personal, aggregated data such as:
 
-This extension does **not** collect, store, or transmit any personally identifiable information (PII) or sensitive user data. It operates locally within your browser to analyze token information on the pages you visit.
+Usage metrics (e.g., how often features are used)
 
-## Permissions
+Anonymized error logs (for debugging and improvement)
 
-The extension requests the following Chrome permissions:
-- **activeTab**: To access the currently open tab for analysis.
-- **scripting**: To inject necessary scripts to retrieve and analyze token data.
-- **host_permissions**: Only for the domain `*.bullx.io`, which is required for the extension's functionality.
+This data, if collected, is used solely to improve the performance and security of the extension.
 
-These permissions are solely used to facilitate the core functionality of the extension.
+2. Use of Data
+Any data collected is used for the following purposes:
 
-## Data Sharing
+To improve and optimize the extension's features
 
-We do **not** share, sell, or transfer any data to third parties.
+To detect bugs, enhance security, and prevent misuse
 
-## Analytics and Tracking
+To provide relevant insights about token behavior on-chain
 
-This extension does **not** use any analytics or tracking tools.
+We do not sell, trade, or share your data with third parties.
 
-## Changes to This Policy
+3. Third-Party Services
+Wagmi Token Analyzer may interact with third-party APIs or public blockchain data to provide token analysis. We do not control how these third parties handle data, so we encourage users to review their respective privacy policies.
 
-We may update this Privacy Policy from time to time. Any changes will be posted here with an updated effective date.
+4. Data Security
+We implement appropriate security measures to protect any non-personal data we collect. However, no system is completely secure, and we cannot guarantee absolute security of transmitted or stored information.
 
-## Contact
+5. Children’s Privacy
+Wagmi Token Analyzer is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children.
 
-If you have any questions or concerns about this Privacy Policy, please contact us at: [your-email@example.com]
+6. Changes to This Policy
+We may update this Privacy Policy from time to time. All changes will be reflected with a new "Effective Date" and made available through the extension's listing or website.
+
+7. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Email: kaeodmaoof@gmail.com
+Website: wagmicourt.com
